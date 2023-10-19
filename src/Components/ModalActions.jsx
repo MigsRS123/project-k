@@ -1,4 +1,4 @@
-import styles from "../css/01.scss";
+import styles from "../css/ModalActions.module.css";
 
 export default function ModalActions(props) {
   if (props.open) {
